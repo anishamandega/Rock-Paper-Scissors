@@ -20,7 +20,7 @@ Option to play multiple rounds or exit the game.
 1. Make sure you have Python 3.x installed on your system.
  
 2. Install the wasabi library by running the following command:
-pip install wasabi
+**pip install wasabi**
 
 3. Download the rock_paper_scissors.py file from this repository.
 
@@ -29,7 +29,7 @@ pip install wasabi
 ## Usage
 
 1. Run the following command to start the game:
-python rock_paper_scissors.py
+**python rock_paper_scissors.py**
 
 2. Follow the on-screen instructions to play the game.
 
@@ -42,8 +42,12 @@ Gameplay Instructions
 The game will display the result of the round, indicating whether you won, lost, or it was a tie.
 
 5. After each round, you can choose to play again or exit the game.
-License
-This project is licensed under the MIT License.
+
+6. Here are some images of the menus
+ ![GitHub Logo](/images/img1.png)
+ ![GitHub Logo](/images/img2.png)
+ ![GitHub Logo](/images/img3.png)
+ ![GitHub Logo](/images/img4.png)
 
 # Acknowledgments
 The game logic and code implementation were inspired by various Rock, Paper, Scissors tutorials and examples.
