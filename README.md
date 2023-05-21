@@ -47,7 +47,6 @@ The game will display the result of the round, indicating whether you won, lost,
  ![GitHub Logo](/images/img1.png)
  ![GitHub Logo](/images/img2.png)
  ![GitHub Logo](/images/img3.png)
- ![GitHub Logo](/images/img4.png)
 
 # Acknowledgments
 The game logic and code implementation were inspired by various Rock, Paper, Scissors tutorials and examples.
