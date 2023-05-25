@@ -26,6 +26,22 @@ Option to play multiple rounds or exit the game.
 
 4. Open a terminal or command prompt and navigate to the directory where the rock_paper_scissors.py file is located.
 
+**You can also pull the dockerize verion**
+
+1. You need to first go to your command prompt and make sure that you have docker installed by using:
+
+$ docker run hello-world 
+
+2. Once you made sure that docker is installed pull this project by using:
+
+$ docker pull anisharue/game
+
+3. One the project is pulled, run it by using:
+
+$ docker run -it anisharue/game
+
+
+
 ## Usage
 
 1. Run the following command to start the game:
