@@ -1,5 +1,5 @@
 # Rock, Paper, Scissors Game
-### This is a simple implementation of the game "Rock, Paper, Scissors" using Python. The game allows you to play against the computer and displays the results of each round.
+This is a simple implementation of the game "Rock, Paper, Scissors" using Python. The game allows you to play against the computer and displays the results of each round.
 
 ## Table of Contents
 ### Features
